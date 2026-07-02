@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: DK Plague
+## Notes: Tracks Frost Fever and Blood Plague
+## Author: Zambo
+## Version: 1.0
+## SavedVariables: DKPlagueDB
+
+DKPlague.lua
